@@ -14,4 +14,5 @@ Summary (Resumen) with each seismic record (4134) considering their different co
 - c10, c11, c12, c13: Latitude, Longitude, Magnitude, and Depth of each event
 - c14, c15, c16: Latitude, Longitude, and Elevation of each station
 - c17, c18, c32: Vs30, f0, and A0 at each station
-- c26, c31: Hypocentral distance and event-type (interface or inslab).
+- c26, c31: Hypocentral distance and event-type (interface: 0 or inslab: 1).
+- c35, c36: f0 and A0 derived from Bastías et al. (2026), Earthquake Spectra, Data Paper
